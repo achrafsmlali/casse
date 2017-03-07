@@ -1,0 +1,2 @@
+#!/bin/sh
+g++ changeCasse.cpp -o changeCasse
